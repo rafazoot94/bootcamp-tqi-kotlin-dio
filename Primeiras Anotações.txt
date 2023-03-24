@@ -1,0 +1,5 @@
+Comandos novos utilizados na aula
+- git status
+- git add .
+- git commit -m
+- git push origin main
